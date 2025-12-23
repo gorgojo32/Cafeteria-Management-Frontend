@@ -23,6 +23,31 @@ cd vite
 npm install
 ```
 
+
+<div align="center">
+  <table>
+    <tr>
+      <td style="padding: 10px; background: white;">
+        <img src="https://github.com/user-attachments/assets/e85b8e1a-373c-4141-95a8-292964678541" width="450">
+      </td>
+      <td style="padding: 10px; background: white;">
+        <img src="https://github.com/user-attachments/assets/2934ca6b-264b-4382-a16b-d44cb11106df" width="450">
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; background: white;">
+        <img src="https://github.com/user-attachments/assets/16f88379-4f4e-4946-9056-3a83ea136d8e" width="450">
+      </td>
+      <td style="padding: 10px; background: white;">
+        <img src="https://github.com/user-attachments/assets/f63e52cd-7eda-4421-82e4-d10ca54cd744" width="450">
+      </td>
+    </tr>
+  </table>
+</div>
+https://github.com/user-attachments/assets/e85b8e1a-373c-4141-95a8-292964678541
+
+
+
 ## Required Extensions for Visual Studio Code
 
 Before running the project, make sure you install the following extensions in VS Code:
