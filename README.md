@@ -36,10 +36,10 @@ npm install
     </tr>
     <tr>
       <td style="padding: 10px; background: white;">
-        <img src="https://github.com/user-attachments/assets/16f88379-4f4e-4946-9056-3a83ea136d8e" width="450">
+        <img src="https://github.com/user-attachments/assets/39723b3f-59e2-4080-bbbd-86b3d87d81fd" width="450">
       </td>
       <td style="padding: 10px; background: white;">
-        <img src="https://github.com/user-attachments/assets/f63e52cd-7eda-4421-82e4-d10ca54cd744" width="450">
+        <img src="https://github.com/user-attachments/assets/2a20bb28-6e52-4d9e-87d0-7b787f74a0dc" width="450">
       </td>
     </tr>
   </table>
