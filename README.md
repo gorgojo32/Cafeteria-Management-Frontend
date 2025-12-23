@@ -31,7 +31,7 @@ npm install
         <img src="https://github.com/user-attachments/assets/e85b8e1a-373c-4141-95a8-292964678541" width="450">
       </td>
       <td style="padding: 10px; background: white;">
-        <img src="https://github.com/user-attachments/assets/2934ca6b-264b-4382-a16b-d44cb11106df" width="450">
+        <img src="https://github.com/user-attachments/assets/60abc4ad-fdea-48ac-b6b2-3743f0a8ecaa" width="450">
       </td>
     </tr>
     <tr>
