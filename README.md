@@ -24,6 +24,9 @@ npm install
 ```
 
 
+
+## PAGE FUNCTIONALITY
+
 <div align="center">
   <table>
     <tr>
