@@ -45,9 +45,11 @@ npm install
         <img src="https://github.com/user-attachments/assets/2a20bb28-6e52-4d9e-87d0-7b787f74a0dc" width="550">
       </td>
     </tr>
+    <tr>
       <td colspan="center"  style="padding: 10px; background: white; text-align: center;">
         <img src="https://github.com/user-attachments/assets/2a20bb28-6e52-4d9e-87d0-7b787f74a0dc" width="550">
       </td>
+      </tr>
   </table>
 </div>
 
