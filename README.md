@@ -42,6 +42,9 @@ npm install
         <img src="https://github.com/user-attachments/assets/2a20bb28-6e52-4d9e-87d0-7b787f74a0dc" width="450">
       </td>
     </tr>
+    <td style="padding: 10px; background: white;">
+        <img src="https://github.com/user-attachments/assets/2a20bb28-6e52-4d9e-87d0-7b787f74a0dc" width="450">
+      </td>
   </table>
 </div>
 https://github.com/user-attachments/assets/e85b8e1a-373c-4141-95a8-292964678541
